@@ -1,4 +1,4 @@
-package org.example.tamagotchi.exception.handler;
+package org.example.tamagotchi.exception.hadnler;
 
 import org.example.tamagotchi.exception.dto.ErrorResponseDto;
 import org.example.tamagotchi.exception.PetAlreadyDiedException;
